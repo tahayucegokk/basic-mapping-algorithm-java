@@ -18,7 +18,8 @@ As a result, the transformed string accumulates within the StringBuilder object.
 <br>
 Finally, the transformed string is obtained by converting the contents of the StringBuilder object to a Java string using the .toString() method, and it is returned.
 </sup>
-
+##Note:
+<b>This code can be useful in scenarios where the input string needs to be transformed with specified separators.</b>
 ## Usage:
 ```java
 public static void main(String[] args) {
