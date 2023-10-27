@@ -1,7 +1,7 @@
 
 ```java
 public static void main(String[] args) {
-    String inputString = "Merhaba";
+    String inputString = "Hello";
     String result = basic_mapping(inputString);
-    System.out.println("Dönüştürülmüş Dize: " + result);
+    System.out.println("New String: " + result);
 }
